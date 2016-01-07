@@ -62,3 +62,20 @@
     in JavaScript? They are the functional, functional shared, prototypal and pseudoclassical instantiation patterns?
   * How and when does one use the keyword *this*?
   * Know how to use apply, call and bind.
+
+## Resources for Review
+
+  If you need to brush up on any of these topics then we recommend the following preparatory resources:
+
+  1. This [WikiBook](https://en.wikibooks.org/wiki/Data_Structures) covers all of the data structures mentioned above.
+  2. *Introduction to Algorithms* by Leiserson, Stein, Rivest and Cormen (3rd Edition) is the canonical text on
+     algorithms and data structures.
+      * This text covers:
+        * Linked Lists on pages 236-240
+        * Graphs in Chapter 22
+        * Stacks on pages 232-234
+        * Queues on pages 234-235
+        * Hash Tables on pages 256-259 & 262-264
+  3. For an accessible introduction to linked lists see [this](http://blog.millermedeiros.com/linked-lists/) blog post.
+  4. A introduction to graphs can be found  [here](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/).
+  5. For a highly intuitive discussion of sorting algorithms [this](http://www.sorting-algorithms.com/) site is particularly useful.
