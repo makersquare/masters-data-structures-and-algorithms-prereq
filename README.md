@@ -34,11 +34,8 @@
 ### Array
   * What is the time complexity for retrieving the value of the nth indexed element in an array?
   * How are the elements in an array typically stored in memory?
-  * Suppose you are given a multidimensional array of the form:
-      <br>
-      var multidimensionalArray = [ [1, 2, 3], [4, 5, 6], [6, 7, 8] ].
-      
-    How would you access the element with the value 5?
+  * Suppose you are given a multidimensional array of the form: var multidimensionalArray =
+    [ [1, 2, 3], [4, 5, 6], [6, 7, 8] ]. How would you access the element with the value 5?
   * What is the average-case time complexity of finding the maximum value in an array of integers?
 
 ### Queue
