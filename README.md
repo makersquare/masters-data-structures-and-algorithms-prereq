@@ -5,8 +5,6 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, schedule an interview slot.
 
-      <button type="button">Click Me!</button>
-      
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
     The addElement() method adds a node to the tail of a linked list.
@@ -37,10 +35,9 @@
   * What is the time complexity for retrieving the value of the nth indexed element in an array?
   * How are the elements in an array typically stored in memory?
   * Suppose you are given a multidimensional array of the form:
-
       <br>
       var multidimensionalArray = [ [1, 2, 3], [4, 5, 6], [6, 7, 8] ].
-
+      
     How would you access the element with the value 5?
   * What is the average-case time complexity of finding the maximum value in an array of integers?
 
