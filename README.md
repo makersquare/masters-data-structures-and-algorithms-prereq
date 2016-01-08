@@ -5,7 +5,7 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, schedule an interview slot.
 
-                            [Apply Now](www.web.com)
+                              Apply Now(link pending)
 
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
