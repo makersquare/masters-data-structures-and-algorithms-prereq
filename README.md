@@ -5,6 +5,8 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, schedule an interview slot.
 
+  [button](www.plexit.co)
+
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
     The addElement() method adds a node to the tail of a linked list.
