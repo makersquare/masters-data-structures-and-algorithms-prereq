@@ -5,7 +5,7 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, schedule an interview slot.
 
-  [button](www.plexit.co)
+                    ->[Apply Now]('www.web.com')<-
 
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
