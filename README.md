@@ -1,11 +1,11 @@
-# MakerSquare Masters Prerequisites
+# MakerSquare Masters Prerequisite Self-Assessment
 
-  Prior to entering the MakerSquare Masters program a student should be able to
+  Prior to entering the MakerSquare Masters beta program a student should be able to
   implement a linked list, tree, graph, stack, queue, array, basic sorting algorithms
   and a hash table in JavaScript. If a student can answer the following questions then
-  they are ready for this program. Once you are ready, schedule an interview slot.
+  they are ready for this program. Once you are ready, continue your application by scheduling an interview using the link below.
 
-                              Apply Now(link pending)
+[![Schedule an Interview](https://lh3.googleusercontent.com/6f29NhSNQ8YFEqg361z-FcycJ3VqeOtGu0vzBY68knmVUkEIHGPXYEIkDZpr0xV3EeXHI57tevJk9DtKuMHGV_cyDOj0HF_Fu8P45qhm1_Dn0YZQxJ5wKIcIGlci2r-DZFSkk9d_W8UeTcUB4tSi2nh3k2386Uu85vefCTXEzqndLQPl43BZEb3BIDWShsLfFQ01i31CK7O2FiEALDDvQ63_CzK_qqdqv588P8o9eHYaPzQ1i8xV22fLSylZjUAjKxRtkpJIpnIgXRAgZEmajomL-jgwyCYvBbKvVdYus0VHpdCSNPeNU0ejBB-O7zhWLkk2D5zXoFLsEUTYsjRVnkYXqqRV-Z4-iu-30B73k-lbdpFVwCC-R5a4QGfxHMEt5Yje-6a49bSO6XpQti4WBQefSZ-Ot2x0S8Dg8vFe0M6JFiOdFSx2_bkX_U332h33CNCY6yWWQkHxxoIIAgcLIUK8AaxkA43BvByR5D290UTpgpeuuddlR01hLgl7-iOVzQsqMFYLcZzgQg3TW-6pFeSJeeis3pg78jjC3kb3FCS3EEPjyrcdz04vdtzIaTEOBQDALg=w216-h61-no)](https://calendly.com/masters)
 
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
