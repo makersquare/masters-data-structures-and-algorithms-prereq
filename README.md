@@ -5,11 +5,8 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, continue your application by scheduling an interview using the link below.
 
-<div align='center'>
+                      -> [Schedule an Interview](https://calendly.com/masters) <-
 
-[Schedule an Interview](https://calendly.com/masters)
-
-</div>
 
 ### Linked List
   * Implement a linked list with the methods addElement() and findElement(value).
