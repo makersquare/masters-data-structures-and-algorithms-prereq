@@ -5,7 +5,7 @@
   and a hash table in JavaScript. If a student can answer the following questions then
   they are ready for this program. Once you are ready, continue your application by scheduling an interview using the link below.
 
-                      -> [Schedule an Interview](https://calendly.com/masters) <-
+[Schedule an Interview](https://calendly.com/masters)
 
 
 ### Linked List
